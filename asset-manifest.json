@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AleksandrChernuk/movies.git/static/css/main.16ee99a1.css",
-    "main.js": "/AleksandrChernuk/movies.git/static/js/main.9a228f43.js",
-    "index.html": "/AleksandrChernuk/movies.git/index.html",
-    "main.16ee99a1.css.map": "/AleksandrChernuk/movies.git/static/css/main.16ee99a1.css.map",
-    "main.9a228f43.js.map": "/AleksandrChernuk/movies.git/static/js/main.9a228f43.js.map"
+    "main.css": "/movies/static/css/main.16ee99a1.css",
+    "main.js": "/movies/static/js/main.53bb42ca.js",
+    "index.html": "/movies/index.html",
+    "main.16ee99a1.css.map": "/movies/static/css/main.16ee99a1.css.map",
+    "main.53bb42ca.js.map": "/movies/static/js/main.53bb42ca.js.map"
   },
   "entrypoints": [
     "static/css/main.16ee99a1.css",
-    "static/js/main.9a228f43.js"
+    "static/js/main.53bb42ca.js"
   ]
 }
